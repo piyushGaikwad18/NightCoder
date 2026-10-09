@@ -1,0 +1,1 @@
+print("NightCoder typing test")print("NightCoder typing test")print("NightCoder typing test")
